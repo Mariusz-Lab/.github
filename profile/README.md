@@ -17,5 +17,5 @@ Mariusz Lab to grupka entuzjastów technologii i pasjonatów automatyzacji, któ
 
 #### Członkowe zespołu:
 
-1. MinimumZulu  - Administrator systemów    [MinimumZulu](https://github.com/MALYMATI2007)
-2. MALYMATI2007 - Główny programista        [MALYMATI2007](https://github.com/MALYMATI2007)
+1. MinimumZulu  - Administrator systemów     [MinimumZulu](https://github.com/MinimumZulu)
+2. MALYMATI2007 - Głównyprogramista          [MALYMATI2007](https://github.com/MALYMATI2007)
